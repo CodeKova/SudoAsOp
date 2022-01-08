@@ -1,0 +1,9 @@
+main: com.codekova.sudoasop.SudoAsOpMain
+name: SudoAsOp
+version: 1.0
+author: CodeKova
+commands:
+  sudoasop:
+    description: Makes a Player perform a commmands as Operator.
+    permission: sudoasop.use
+    usage: /<command>
